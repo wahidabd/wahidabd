@@ -8,6 +8,8 @@ Hi 👋 My name is Abd. Wahid
 ### Skills
 
 <p align="left">
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
@@ -20,10 +22,11 @@ Hi 👋 My name is Abd. Wahid
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## GitHub Stats
+<p align="start">
+    <img src="https://github-readme-stats.vercel.app/api?username=wahidabd&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidabd&hide_border=true&hide=css,php,blade,html,java&theme=tokyonight&langs_count=3" />
+</p>
 
-<a href="http://www.github.com/wahidabd"><img src="https://github-readme-stats.vercel.app/api?username=wahidabd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wahidabd's GitHub stats" /></a>
-
-<a href="https://github.com/wahidabd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidabd&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/wahidabd"><img src="https://activity-graph.herokuapp.com/graph?username=wahidabd&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
