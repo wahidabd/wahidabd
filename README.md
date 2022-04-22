@@ -5,7 +5,7 @@ Hi 👋 My name is Abd. Wahid
 * 🖥️  See my portfolio at [My Portfolio](http://wahidabd.github.io)
 * ✉️  You can contact me at [wahed.blog99@gmail.com](mailto:wahed.blog99@gmail.com)
 
-### Tools Skills
+### Skills
 
 <p align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
