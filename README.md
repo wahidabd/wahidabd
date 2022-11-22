@@ -1,7 +1,7 @@
 Hi 👋 My name is Abd. Wahid
 ===========================
 
-* 🌍  I'm based in Bangkalan
+* 🌍  I'm based in Surabaya
 * 🖥️  See my portfolio at [My Portfolio](http://wahidabd.github.io)
 * ✉️  You can contact me at [wahed.blog99@gmail.com](mailto:wahed.blog99@gmail.com)
 
