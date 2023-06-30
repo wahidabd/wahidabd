@@ -9,7 +9,8 @@ Hi 👋 My name is Abd. Wahid
 
 <p align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://developer.android.com/static/images/logos/android.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://kotlinlang.org/assets/images/favicon.svg" alt="kotlin" width="40" height="40"/></a> 
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://developer.android.com/static/images/logos/kotlin.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" alt="Compose" width="40" height="40"/></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
